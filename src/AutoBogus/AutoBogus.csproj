@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>net40;net452;netstandard1.3;netstandard2.0;net6.0</TargetFrameworks>
     <Description>A C# library complementing the Bogus generator by adding auto creation and population capabilities.</Description>
-    <Version>2.13.1</Version>
+    <Version>2.13.1-ol01</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../autobogus.snk</AssemblyOriginatorKeyFile>
